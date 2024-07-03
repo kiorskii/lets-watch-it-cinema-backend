@@ -22,9 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Lets Watch It Cinema Big PET Project
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# Backend:
+
+NEST JS / Prisma ORM / Postgre SQL
 
 ## Installation
 
